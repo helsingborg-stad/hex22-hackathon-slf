@@ -7,9 +7,11 @@ Detta är bara ett exempel på hur digitala lösningar ska göra det lättare f�
 
 Du är inte ensam - Utveckla din idé tillsamman med andra.
 
-# Helsingborgs stads öppna data
+# Superintressanta länkar!
 
-## GiS & Geodata
+[innovation.helsingborg.se](https://innovation.helsingborg.se/) är ett av stadens verktyg för hantering av innovationer kopplade till utmaningar. Kika gärna in.
+
+## GIS & Geodata
 
 - [helsingborg.io](https://www.helsingborg.io)
 
